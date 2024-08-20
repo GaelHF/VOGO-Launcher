@@ -1,13 +1,13 @@
 {
   "name": "vogolauncher",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "productName": "VOGOs Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) & Gael HF (https://github.com/GaelHF)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/GaelHF/VOGO-Launcher",
+  "homepage": "https://github.com/GaelHF/VOGOLauncher",
   "bugs": {
-    "url": "https://github.com/GaelHF/VOGO-Launcher/issues"
+    "url": "https://github.com/GaelHF/VOGOLauncher/issues"
   },
   "private": true,
   "main": "index.js",

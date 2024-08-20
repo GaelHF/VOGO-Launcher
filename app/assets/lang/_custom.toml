@@ -4,15 +4,15 @@
 title = "VOGO Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/GaelHF/VOGO-Launcher"
-mediaTwitterURL = "#"
+mediaGitHubURL = "https://github.com/GaelHF/VOGOLauncher"
+mediaTwitterURL = "https://x.com/VOGONetwork"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/zNWUXdt"
+mediaDiscordURL = "https://discord.gg/B8EXHdRGtK"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/GaelHF/VOGO-Launcher"
-supportLink = "https://github.com/GaelHF/VOGO-Launcher/issues"
+sourceGithubLink = "https://github.com/GaelHF/VOGOLauncher"
+supportLink = "https://github.com/GaelHF/VOGOLauncher/issues"
 
 [ejs.welcome]
 welcomeHeader = "WELCOME TO THE VOGO LAUNCHER"
