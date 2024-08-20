@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+  <channel>
+    <title>VOGO Launcher News</title>
+    <link>https://github.com/GaelHF/VOGO-Launcher</link>
+    <item>
+      <title>VOGO Launcher is opened</title>
+      <content:encoded>
+        <![CDATA[<p>Welcome to the VOGO Launcher. Now every Minecraft Moddeds Servers of VOGO Games are gonna avaible to play here.1</p>
+        ]]>
+      </content:encoded>
+      <dc:creator>GaelHF</dc:creator>
+      <pubDate>20 August 2024</pubDate>
+      <slash:comments>2024</slash:comments>
+    </item>
+  </channel>
+</rss>
